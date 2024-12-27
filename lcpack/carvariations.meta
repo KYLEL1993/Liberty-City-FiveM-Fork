@@ -607,6 +607,41 @@
           28
           132
           156
+          18
+          12
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          18
+          112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          24
+          112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          14
+          12
           </indices>
           <liveries />
         </Item>
@@ -622,7 +657,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="38" />
+      <sirenSettings value="34" />
     </Item>
     <Item>
       <modelName>fdlcamb</modelName>
@@ -1092,18 +1127,7 @@
           2
           </indices>
           <liveries />
-        </Item><!--
-        <Item>
-          <indices content="char_array">
-          28
-          28
-          132
-          28
-          0
-          3
-          </indices>
-          <liveries />
-        </Item>-->
+        </Item>
       </colors>
       <kits />
       <windowsWithExposedEdges />
@@ -1153,18 +1177,7 @@
           2
           </indices>
           <liveries />
-        </Item><!--
-        <Item>
-          <indices content="char_array">
-          28
-          28
-          132
-          28
-          0
-          3
-          </indices>
-          <liveries />
-        </Item>-->
+        </Item>
       </colors>
       <kits />
       <windowsWithExposedEdges />
@@ -1925,7 +1938,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="42" />
+      <sirenSettings value="38" />
     </Item>
     <Item>
       <modelName>lcpd2</modelName>
@@ -1986,7 +1999,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="304" />
-      <sirenSettings value="42" />
+      <sirenSettings value="38" />
     </Item>
     <Item>
       <modelName>lcpd3</modelName>
@@ -2173,7 +2186,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="42" />
+      <sirenSettings value="38" />
     </Item>
     <Item>
       <modelName>lcpd6</modelName>
@@ -2341,7 +2354,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="0" />
-      <sirenSettings value="42" />
+      <sirenSettings value="38" />
     </Item>
     <Item>
       <modelName>lcpdalamo</modelName>
@@ -2698,7 +2711,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="205" />
-      <sirenSettings value="42" />
+      <sirenSettings value="38" />
     </Item> 
     <Item>
       <modelName>lcpdimpaler2</modelName>
@@ -2843,7 +2856,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="233" />
-      <sirenSettings value="42" />
+      <sirenSettings value="38" />
     </Item>
     <Item>
       <modelName>lcpdpanto</modelName>
