@@ -1,0 +1,7 @@
+*.rpf
+*.txt
+titleupdate/dev_ng/update/x64/dlcpacks/*/*.rpf
+*.ulog
+BuildRPF.bat
+BuildRPFs.bat
+BuildDLC.bat
