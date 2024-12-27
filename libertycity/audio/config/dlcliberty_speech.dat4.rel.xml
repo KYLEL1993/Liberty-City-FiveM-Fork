@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat4>
+ <Version value="46043" />
+ <ContainerPaths>
+  <Item>DLC_LIBERTYCITY\S_M_M_FATCOP_LC_01_WHITE</Item>
+  <Item>DLC_LIBERTYCITY\S_M_M_FATCOP_LC_01_BLACK</Item>
+ </ContainerPaths>
+ <Items>
+  <Item type="ByteArray">
+   <Name>60f3c9aa</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ff4463f2</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>12f22ded</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>481b35d</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>fcab71e2</Name>
+   <RawData>06 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6e546b65</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>522e1a94</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9ae7e5cd</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a5401158</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>af18cec5</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7c13fb8e</Name>
+   <RawData>08 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7c01337e</Name>
+   <RawData>06 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>446c255c</Name>
+   <RawData>07 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4ad4cd3c</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>bcface67</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f52432d8</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4eebeed3</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d4fad308</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e8fe987a</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1371d0e2</Name>
+   <RawData>06 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7c98d22b</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9a547e93</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ffcdd68c</Name>
+   <RawData>05 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c17e4604</Name>
+   <RawData>06 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>54bdefed</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>231cf7b1</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>35c0a46b</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5ac9143c</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>51fc04ba</Name>
+   <RawData>06 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ac9ee431</Name>
+   <RawData>08 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d53ba25</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>aba3e751</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>aea5df47</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>42f40189</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>69c85a1d</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>13a9b0ea</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ba8b5ff1</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6650c2b</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9dba93ef</Name>
+   <RawData>05 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f200e1c7</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a129233c</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9937a70b</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3885ba88</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>45bc870e</Name>
+   <RawData>06 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c2a28619</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>62086068</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>12a67729</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>632bfb51</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>94b4b60b</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>fd82b312</Name>
+   <RawData>05 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7fb5bd9a</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>46a0c37b</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>72c1fe6d</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9f96ad13</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>48366d0f</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e350035d</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3fd76b17</Name>
+   <RawData>05 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>27acaa8b</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>37b17489</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>2d49a7d9</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d75f0df5</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5aa73aa6</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4cd489e3</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>29d2bb93</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ce5007fb</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1dadf5a3</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ae511e75</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c02e5b46</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b27e27c8</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>bd84121b</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>cc21ecb2</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a69b3</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c7217187</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ea919e5c</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>228e25e2</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9efa7ae9</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c22449f3</Name>
+   <RawData>05 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d33c5a</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>77107afd</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3d3537cb</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>becf5183</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d34604d2</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f56a3906</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>dde9865b</Name>
+   <RawData>05 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5b05bfa</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a1d75f31</Name>
+   <RawData>06 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e268b82b</Name>
+   <RawData>05 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a123e374</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>14d12d8a</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c1960bdc</Name>
+   <RawData>03 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3ca417c2</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>78925898</Name>
+   <RawData>04 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>68e6a8cc</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5f70e243</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>85ea262</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>75c6bdef</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>53a2d868</Name>
+   <RawData>01 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3960a684</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>80bc5039</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>81beda52</Name>
+   <RawData>02 0A 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c6752c8b</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>59c286d3</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b474c8cc</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a207567c</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5a2d94c3</Name>
+   <RawData>05 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c8d28e44</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f4a8ffb5</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3c6100ec</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3c6f479</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>99e2be4</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>da951eaf</Name>
+   <RawData>08 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ec52281d</Name>
+   <RawData>01 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1a7c2b46</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>53a2d7f9</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e86d0bf2</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>727c3629</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4e787d5b</Name>
+   <RawData>01 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b5f735c3</Name>
+   <RawData>06 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>da1e370a</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3cd29bb2</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>594b33ad</Name>
+   <RawData>05 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>67f8a325</Name>
+   <RawData>06 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f23b0acc</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c4b2f880</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>de0e697f</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>859a1290</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9346414a</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>fc4ff11d</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f77ae19b</Name>
+   <RawData>06 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a180110</Name>
+   <RawData>08 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>abd55f04</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d250270</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8233a66</Name>
+   <RawData>01 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e472e4a8</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>cf4ebf3c</Name>
+   <RawData>01 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b52f55cb</Name>
+   <RawData>01 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1c0dbad0</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a0e3e90a</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3b3c76ce</Name>
+   <RawData>05 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>548604e6</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7afc61d</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>3fb1422a</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9e035fa9</Name>
+   <RawData>01 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e33a622f</Name>
+   <RawData>06 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>64246338</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c48e8549</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b4209208</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c5ad1e70</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>c57e2d57</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>5b045633</Name>
+   <RawData>05 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>e026265a</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d4471b4c</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>39104832</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>eeb0882e</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>45d6e67c</Name>
+   <RawData>07 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>99518e36</Name>
+   <RawData>05 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>812a4faa</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>913791a8</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8bcf42f8</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>71d9e8d4</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>fc21df87</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>78df9a19</Name>
+   <RawData>05 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ea526cc2</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8f545eb2</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>68d6e2da</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>bb2b1082</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8d7fb54</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>66a8be67</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>2faa5f2d</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>14f8c2e9</Name>
+   <RawData>01 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f0af54df</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1b02f73a</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a68c8c92</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>4c177b7d</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>8408c0c3</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>387c9fc8</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>64a2acd2</Name>
+   <RawData>05 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a655d97b</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9bb3d2ea</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>1849b4a2</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>75c0e1f3</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>53ecdc27</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7b6f637a</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>a336bedb</Name>
+   <RawData>05 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>751ba10</Name>
+   <RawData>06 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>7a50655</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>b257c8ab</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>6710eefd</Name>
+   <RawData>03 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9a22f2e3</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>de14bdb9</Name>
+   <RawData>04 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>ce604ded</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>f9f60762</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>d34058ce</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>9fe643a5</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>263ab518</Name>
+   <RawData>02 0B 00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>s_m_m_fatcop_lc_01_white</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>s_m_m_fatcop_lc_01_black</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="Container" ntOffset="2251">
+   <Name>10</Name>
+   <ContainerHash>dlc_libertycity/s_m_m_fatcop_lc_01_white</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="2251">
+   <Name>11</Name>
+   <ContainerHash>dlc_libertycity/s_m_m_fatcop_lc_01_black</ContainerHash>
+  </Item>
+ </Items>
+</Dat4>

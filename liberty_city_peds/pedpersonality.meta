@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPedModelInfo__PersonalityDataList>
+	<MovementModeUnholsterData />
+	<MovementModes />
+	<PedPersonalities>
+		<Item>
+			<PersonalityName>fighter</PersonalityName>
+			<DefaultWeaponLoadout/>
+			<Bravery>Gang</Bravery>
+			<AgitatedPersonality>Confront</AgitatedPersonality>
+			<Criminality>Minor_Crimes</Criminality>
+			<AgitationTriggers>default</AgitationTriggers>
+			<HealthConfigHash>Strong</HealthConfigHash>
+			<WeaponAnimations>
+				<Item>default</Item>
+			</WeaponAnimations>
+			<AmbientAudio>YoungMale</AmbientAudio>
+			<WitnessPersonality>default</WitnessPersonality>
+			<Agility>
+				<Flags>AF_CAN_DIVE AF_AVOID_IMMINENT_DANGER AF_GET_UP_FAST AF_BALANCE_STRONG AF_RECOVER_BALANCE AF_RAGDOLL_BRACE_STRONG AF_RAGDOLL_HIGH_FALL_STRONG AF_STRONG_WITH_HEAVY_WEAPON AF_DONT_FLINCH_ON_EXPLOSION AF_DONT_FLINCH_ON_MELEE</Flags>
+				<MovementCostModifier value="1.00000000"/>
+			</Agility>
+			<IsMale value="true"/>
+			<IsHuman value="true"/>
+			<ShouldRewardMoneyOnDeath value="false"/>
+			<IsGang value="false"/>
+			<IsSecurity value="false"/>
+			<IsWeird value="false"/>
+			<IsDangerousAnimal value="false"/>
+			<CausesRumbleWhenCollidesWithPlayer value="false"/>
+			<AllowSlowCruisingWithMusic value="true"/>
+			<AllowRoadCrossHurryOnLightChange value="true"/>
+			<VehicleTypes>PED_DRIVES_MOTORCYCLE PED_DRIVES_RICH_CAR PED_DRIVES_AVERAGE_CAR PED_DRIVES_BOAT</VehicleTypes>
+			<AttackStrengthMin value="1.00000000"/>
+			<AttackStrengthMax value="1.00000000"/>
+			<StaminaEfficiency value="1.00000000"/>
+			<ArmourEfficiency value="1.00000000"/>
+			<HealthRegenEfficiency value="1.00000000"/>
+			<ExplosiveDamageMod value="1.00000000"/>
+			<HandGunDamageMod value="1.00000000"/>
+			<RifleDamageMod value="1.00000000"/>
+			<SmgDamageMod value="1.00000000"/>
+			<PopulationFleeMod value="1.00000000"/>
+			<HotwireRate value="1.00000000"/>
+			<MotivationMin value="9"/>
+			<MotivationMax value="10"/>
+			<DrivingAbilityMin value="9"/>
+			<DrivingAbilityMax value="10"/>
+			<DrivingAggressivenessMin value="5"/>
+			<DrivingAggressivenessMax value="10"/>
+			<Affluence>AFF_AVERAGE</Affluence>
+			<TechSavvy>TS_LOW</TechSavvy>
+			<MovementModes/>
+			<WeaponAnimsFPSIdle>FirstPerson</WeaponAnimsFPSIdle>
+			<WeaponAnimsFPSRNG>FirstPersonRNG</WeaponAnimsFPSRNG>
+			<WeaponAnimsFPSLT>FirstPersonAiming</WeaponAnimsFPSLT>
+			<WeaponAnimsFPSScope>FirstPersonScope</WeaponAnimsFPSScope>
+		</Item>
+<Item>
+      <PersonalityName>ItalianBoss</PersonalityName>
+      <DefaultWeaponLoadout>LOADOUT_BOSS</DefaultWeaponLoadout>
+      <Bravery>Gang</Bravery>
+      <AgitatedPersonality>Confront</AgitatedPersonality>
+      <Criminality>Law_Abiding_Allow_Cop_Pursuit</Criminality>
+      <AgitationTriggers>Gang</AgitationTriggers>
+      <HealthConfigHash>Strong</HealthConfigHash>
+      <WeaponAnimations>
+        <Item>MafiaGang3</Item>
+        <Item>Mafia1H</Item>
+        <Item>MafiaGang</Item>
+        <Item>MafiaGang2</Item>
+        <Item>Gang</Item>
+      </WeaponAnimations>
+      <AmbientAudio>Gang</AmbientAudio>
+      <WitnessPersonality>default</WitnessPersonality>
+      <Agility>
+        <Flags>AF_CAN_DIVE</Flags>
+        <MovementCostModifier value="1.00000000"/>
+      </Agility>
+      <IsMale value="true"/>
+      <IsHuman value="true"/>
+      <ShouldRewardMoneyOnDeath value="true"/>
+      <IsGang value="true"/>
+      <IsSecurity value="false"/>
+      <IsWeird value="false"/>
+      <IsDangerousAnimal value="false"/>
+      <CausesRumbleWhenCollidesWithPlayer value="false"/>
+      <AllowSlowCruisingWithMusic value="true"/>
+      <AllowRoadCrossHurryOnLightChange value="false"/>
+      <VehicleTypes>PED_DRIVES_BIG_CAR PED_DRIVES_POOR_CAR PED_DRIVES_MOTORCYCLE PED_DRIVES_RICH_CAR PED_DRIVES_AVERAGE_CAR PED_DRIVES_BOAT</VehicleTypes>
+      <AttackStrengthMin value="1.00000000"/>
+      <AttackStrengthMax value="1.20000000"/>
+      <StaminaEfficiency value="1.00000000"/>
+      <ArmourEfficiency value="1.00000000"/>
+      <HealthRegenEfficiency value="1.00000000"/>
+      <ExplosiveDamageMod value="1.00000000"/>
+      <HandGunDamageMod value="1.00000000"/>
+      <RifleDamageMod value="1.00000000"/>
+      <SmgDamageMod value="1.00000000"/>
+      <PopulationFleeMod value="1.00000000"/>
+      <HotwireRate value="1.00000000"/>
+      <MotivationMin value="0"/>
+      <MotivationMax value="0"/>
+      <DrivingAbilityMin value="8"/>
+      <DrivingAbilityMax value="10"/>
+      <DrivingAggressivenessMin value="7"/>
+      <DrivingAggressivenessMax value="10"/>
+      <Affluence>AFF_RICH</Affluence>
+      <TechSavvy>TS_HIGH</TechSavvy>
+      <MovementModes/>
+      <WeaponAnimsFPSIdle>FirstPerson</WeaponAnimsFPSIdle>
+      <WeaponAnimsFPSRNG>FirstPersonRNG</WeaponAnimsFPSRNG>
+      <WeaponAnimsFPSLT>FirstPersonAiming</WeaponAnimsFPSLT>
+      <WeaponAnimsFPSScope>FirstPersonScope</WeaponAnimsFPSScope>
+    </Item>
+    <Item>
+      <PersonalityName>Italian</PersonalityName>
+      <DefaultWeaponLoadout>LOADOUT_FAMILY</DefaultWeaponLoadout>
+      <Bravery>Gang</Bravery>
+      <AgitatedPersonality>Confront</AgitatedPersonality>
+      <Criminality>Law_Abiding_Allow_Cop_Pursuit</Criminality>
+      <AgitationTriggers>Gang</AgitationTriggers>
+      <HealthConfigHash>Strong</HealthConfigHash>
+      <WeaponAnimations>
+        <Item>MafiaGang3</Item>
+        <Item>Mafia1H</Item>
+        <Item>MafiaGang</Item>
+        <Item>MafiaGang2</Item>
+        <Item>Gang</Item>
+      </WeaponAnimations>
+      <AmbientAudio>Gang</AmbientAudio>
+      <WitnessPersonality>default</WitnessPersonality>
+      <Agility>
+        <Flags>AF_CAN_DIVE</Flags>
+        <MovementCostModifier value="1.00000000"/>
+      </Agility>
+      <IsMale value="true"/>
+      <IsHuman value="true"/>
+      <ShouldRewardMoneyOnDeath value="true"/>
+      <IsGang value="true"/>
+      <IsSecurity value="false"/>
+      <IsWeird value="false"/>
+      <IsDangerousAnimal value="false"/>
+      <CausesRumbleWhenCollidesWithPlayer value="false"/>
+      <AllowSlowCruisingWithMusic value="true"/>
+      <AllowRoadCrossHurryOnLightChange value="false"/>
+      <VehicleTypes>PED_DRIVES_BIG_CAR PED_DRIVES_POOR_CAR PED_DRIVES_MOTORCYCLE PED_DRIVES_RICH_CAR PED_DRIVES_AVERAGE_CAR PED_DRIVES_BOAT</VehicleTypes>
+      <AttackStrengthMin value="1.00000000"/>
+      <AttackStrengthMax value="1.20000000"/>
+      <StaminaEfficiency value="1.00000000"/>
+      <ArmourEfficiency value="1.00000000"/>
+      <HealthRegenEfficiency value="1.00000000"/>
+      <ExplosiveDamageMod value="1.00000000"/>
+      <HandGunDamageMod value="1.00000000"/>
+      <RifleDamageMod value="1.00000000"/>
+      <SmgDamageMod value="1.00000000"/>
+      <PopulationFleeMod value="1.00000000"/>
+      <HotwireRate value="1.00000000"/>
+      <MotivationMin value="0"/>
+      <MotivationMax value="0"/>
+      <DrivingAbilityMin value="3"/>
+      <DrivingAbilityMax value="10"/>
+      <DrivingAggressivenessMin value="7"/>
+      <DrivingAggressivenessMax value="10"/>
+      <Affluence>AFF_RICH</Affluence>
+      <TechSavvy>TS_HIGH</TechSavvy>
+      <MovementModes/>
+      <WeaponAnimsFPSIdle>FirstPerson</WeaponAnimsFPSIdle>
+      <WeaponAnimsFPSRNG>FirstPersonRNG</WeaponAnimsFPSRNG>
+      <WeaponAnimsFPSLT>FirstPersonAiming</WeaponAnimsFPSLT>
+      <WeaponAnimsFPSScope>FirstPersonScope</WeaponAnimsFPSScope>
+    </Item>
+    <Item>
+      <PersonalityName>ItalianMafia</PersonalityName>
+      <DefaultWeaponLoadout>LOADOUT_ITALIAN</DefaultWeaponLoadout>
+      <Bravery>Gang</Bravery>
+      <AgitatedPersonality>Confront</AgitatedPersonality>
+      <Criminality>Law_Abiding_Allow_Cop_Pursuit</Criminality>
+      <AgitationTriggers>Gang</AgitationTriggers>
+      <HealthConfigHash>Strong</HealthConfigHash>
+      <WeaponAnimations>
+        <Item>Gang1H</Item>
+        <Item>MafiaGang3</Item>
+        <Item>Mafia1H</Item>
+        <Item>MafiaGang</Item>
+        <Item>MafiaGang2</Item>
+        <Item>Gang</Item>
+      </WeaponAnimations>
+      <AmbientAudio>Gang</AmbientAudio>
+      <WitnessPersonality>default</WitnessPersonality>
+      <Agility>
+        <Flags>AF_CAN_DIVE</Flags>
+        <MovementCostModifier value="1.00000000"/>
+      </Agility>
+      <IsMale value="true"/>
+      <IsHuman value="true"/>
+      <ShouldRewardMoneyOnDeath value="true"/>
+      <IsGang value="true"/>
+      <IsSecurity value="false"/>
+      <IsWeird value="false"/>
+      <IsDangerousAnimal value="false"/>
+      <CausesRumbleWhenCollidesWithPlayer value="false"/>
+      <AllowSlowCruisingWithMusic value="true"/>
+      <AllowRoadCrossHurryOnLightChange value="false"/>
+      <VehicleTypes>PED_DRIVES_BIG_CAR PED_DRIVES_POOR_CAR PED_DRIVES_MOTORCYCLE PED_DRIVES_RICH_CAR PED_DRIVES_AVERAGE_CAR PED_DRIVES_BOAT</VehicleTypes>
+      <AttackStrengthMin value="1.00000000"/>
+      <AttackStrengthMax value="1.20000000"/>
+      <StaminaEfficiency value="1.00000000"/>
+      <ArmourEfficiency value="1.00000000"/>
+      <HealthRegenEfficiency value="1.00000000"/>
+      <ExplosiveDamageMod value="1.00000000"/>
+      <HandGunDamageMod value="1.00000000"/>
+      <RifleDamageMod value="1.00000000"/>
+      <SmgDamageMod value="1.00000000"/>
+      <PopulationFleeMod value="1.00000000"/>
+      <HotwireRate value="1.00000000"/>
+      <MotivationMin value="0"/>
+      <MotivationMax value="0"/>
+      <DrivingAbilityMin value="3"/>
+      <DrivingAbilityMax value="10"/>
+      <DrivingAggressivenessMin value="7"/>
+      <DrivingAggressivenessMax value="10"/>
+      <Affluence>AFF_RICH</Affluence>
+      <TechSavvy>TS_HIGH</TechSavvy>
+      <MovementModes/>
+      <WeaponAnimsFPSIdle>FirstPerson</WeaponAnimsFPSIdle>
+      <WeaponAnimsFPSRNG>FirstPersonRNG</WeaponAnimsFPSRNG>
+      <WeaponAnimsFPSLT>FirstPersonAiming</WeaponAnimsFPSLT>
+      <WeaponAnimsFPSScope>FirstPersonScope</WeaponAnimsFPSScope>
+    </Item>
+    <Item>
+      <PersonalityName>Italian_Female</PersonalityName>
+      <DefaultWeaponLoadout>LOADOUT_FAMILY</DefaultWeaponLoadout>
+      <Bravery>Gang</Bravery>
+      <AgitatedPersonality>Confront</AgitatedPersonality>
+      <Criminality>Law_Abiding_Allow_Cop_Pursuit</Criminality>
+      <AgitationTriggers>Gang</AgitationTriggers>
+      <HealthConfigHash>Strong</HealthConfigHash>
+      <WeaponAnimations>
+        <Item>Gang1H</Item>
+        <Item>GangFemale</Item>
+      </WeaponAnimations>
+      <AmbientAudio>Gang</AmbientAudio>
+      <WitnessPersonality>default</WitnessPersonality>
+      <Agility>
+        <Flags>AF_CAN_DIVE</Flags>
+        <MovementCostModifier value="1.00000000"/>
+      </Agility>
+      <IsMale value="false"/>
+      <IsHuman value="true"/>
+      <ShouldRewardMoneyOnDeath value="true"/>
+      <IsGang value="true"/>
+      <IsSecurity value="false"/>
+      <IsWeird value="false"/>
+      <IsDangerousAnimal value="false"/>
+      <CausesRumbleWhenCollidesWithPlayer value="false"/>
+      <AllowSlowCruisingWithMusic value="false"/>
+      <AllowRoadCrossHurryOnLightChange value="false"/>
+      <VehicleTypes>PED_DRIVES_BIG_CAR PED_DRIVES_POOR_CAR PED_DRIVES_MOTORCYCLE PED_DRIVES_RICH_CAR PED_DRIVES_AVERAGE_CAR PED_DRIVES_BOAT</VehicleTypes>
+      <AttackStrengthMin value="1.00000000"/>
+      <AttackStrengthMax value="1.20000000"/>
+      <StaminaEfficiency value="1.00000000"/>
+      <ArmourEfficiency value="1.00000000"/>
+      <HealthRegenEfficiency value="1.00000000"/>
+      <ExplosiveDamageMod value="1.00000000"/>
+      <HandGunDamageMod value="1.00000000"/>
+      <RifleDamageMod value="1.00000000"/>
+      <SmgDamageMod value="1.00000000"/>
+      <PopulationFleeMod value="1.00000000"/>
+      <HotwireRate value="1.00000000"/>
+      <MotivationMin value="0"/>
+      <MotivationMax value="0"/>
+      <DrivingAbilityMin value="3"/>
+      <DrivingAbilityMax value="10"/>
+      <DrivingAggressivenessMin value="7"/>
+      <DrivingAggressivenessMax value="10"/>
+      <Affluence>AFF_RICH</Affluence>
+      <TechSavvy>TS_HIGH</TechSavvy>
+      <MovementModes/>
+      <WeaponAnimsFPSIdle>FirstPerson</WeaponAnimsFPSIdle>
+      <WeaponAnimsFPSRNG>FirstPersonRNG</WeaponAnimsFPSRNG>
+      <WeaponAnimsFPSLT>FirstPersonAiming</WeaponAnimsFPSLT>
+      <WeaponAnimsFPSScope>FirstPersonScope</WeaponAnimsFPSScope>
+    </Item>
+    <Item>
+      <PersonalityName>Hustler</PersonalityName>
+      <DefaultWeaponLoadout>LOADOUT_HUSTLER</DefaultWeaponLoadout>
+      <Bravery>Gang</Bravery>
+      <AgitatedPersonality>Confront</AgitatedPersonality>
+      <Criminality>Law_Abiding_Allow_Cop_Pursuit</Criminality>
+      <AgitationTriggers>Gang</AgitationTriggers>
+      <HealthConfigHash>Strong</HealthConfigHash>
+      <WeaponAnimations>
+        <Item>Gang</Item>
+        <Item>Gang1H</Item>
+      </WeaponAnimations>
+      <AmbientAudio>Gang</AmbientAudio>
+      <WitnessPersonality>default</WitnessPersonality>
+      <Agility>
+        <Flags>AF_CAN_DIVE</Flags>
+        <MovementCostModifier value="1.00000000"/>
+      </Agility>
+      <IsMale value="true"/>
+      <IsHuman value="true"/>
+      <ShouldRewardMoneyOnDeath value="true"/>
+      <IsGang value="true"/>
+      <IsSecurity value="false"/>
+      <IsWeird value="false"/>
+      <IsDangerousAnimal value="false"/>
+      <CausesRumbleWhenCollidesWithPlayer value="false"/>
+      <AllowSlowCruisingWithMusic value="true"/>
+      <AllowRoadCrossHurryOnLightChange value="false"/>
+      <VehicleTypes>PED_DRIVES_POOR_CAR PED_DRIVES_MOTORCYCLE PED_DRIVES_AVERAGE_CAR</VehicleTypes>
+      <AttackStrengthMin value="1.00000000"/>
+      <AttackStrengthMax value="1.20000000"/>
+      <StaminaEfficiency value="1.00000000"/>
+      <ArmourEfficiency value="1.00000000"/>
+      <HealthRegenEfficiency value="1.00000000"/>
+      <ExplosiveDamageMod value="1.00000000"/>
+      <HandGunDamageMod value="1.00000000"/>
+      <RifleDamageMod value="1.00000000"/>
+      <SmgDamageMod value="1.00000000"/>
+      <PopulationFleeMod value="1.00000000"/>
+      <HotwireRate value="1.00000000"/>
+      <MotivationMin value="0"/>
+      <MotivationMax value="0"/>
+      <DrivingAbilityMin value="3"/>
+      <DrivingAbilityMax value="10"/>
+      <DrivingAggressivenessMin value="7"/>
+      <DrivingAggressivenessMax value="10"/>
+      <Affluence>AFF_POOR</Affluence>
+      <TechSavvy>TS_HIGH</TechSavvy>
+      <MovementModes/>
+      <WeaponAnimsFPSIdle>FirstPerson</WeaponAnimsFPSIdle>
+      <WeaponAnimsFPSRNG>FirstPersonRNG</WeaponAnimsFPSRNG>
+      <WeaponAnimsFPSLT>FirstPersonAiming</WeaponAnimsFPSLT>
+      <WeaponAnimsFPSScope>FirstPersonScope</WeaponAnimsFPSScope>
+    </Item>
+	<!-- Jamaican Gang Personality STARTS HERE -->
+    <Item>
+      <PersonalityName>Pimp</PersonalityName>
+      <DefaultWeaponLoadout>LOADOUT_HUSTLER</DefaultWeaponLoadout>
+      <Bravery>Gang</Bravery>
+      <AgitatedPersonality>Confront</AgitatedPersonality>
+      <Criminality>Law_Abiding_Allow_Cop_Pursuit</Criminality>
+      <AgitationTriggers>Gabg</AgitationTriggers>
+      <HealthConfigHash>Strong</HealthConfigHash>
+      <WeaponAnimations>
+        <Item>Gang</Item>
+        <Item>Gang1H</Item>
+      </WeaponAnimations>
+      <AmbientAudio>Family</AmbientAudio>
+      <WitnessPersonality>default</WitnessPersonality>
+      <Agility>
+        <Flags>AF_CAN_DIVE</Flags>
+        <MovementCostModifier value="1.00000000"/>
+      </Agility>
+      <IsMale value="true"/>
+      <IsHuman value="true"/>
+      <ShouldRewardMoneyOnDeath value="true"/>
+      <IsGang value="true"/>
+      <IsSecurity value="false"/>
+      <IsWeird value="false"/>
+      <IsDangerousAnimal value="false"/>
+      <CausesRumbleWhenCollidesWithPlayer value="false"/>
+      <AllowSlowCruisingWithMusic value="true"/>
+      <AllowRoadCrossHurryOnLightChange value="false"/>
+      <VehicleTypes>PED_DRIVES_POOR_CAR PED_DRIVES_MOTORCYCLE PED_DRIVES_AVERAGE_CAR</VehicleTypes>
+      <AttackStrengthMin value="1.00000000"/>
+      <AttackStrengthMax value="1.20000000"/>
+      <StaminaEfficiency value="1.00000000"/>
+      <ArmourEfficiency value="1.00000000"/>
+      <HealthRegenEfficiency value="1.00000000"/>
+      <ExplosiveDamageMod value="1.00000000"/>
+      <HandGunDamageMod value="1.00000000"/>
+      <RifleDamageMod value="1.00000000"/>
+      <SmgDamageMod value="1.00000000"/>
+      <PopulationFleeMod value="1.00000000"/>
+      <HotwireRate value="1.00000000"/>
+      <MotivationMin value="0"/>
+      <MotivationMax value="0"/>
+      <DrivingAbilityMin value="8"/>
+      <DrivingAbilityMax value="10"/>
+      <DrivingAggressivenessMin value="7"/>
+      <DrivingAggressivenessMax value="10"/>
+      <Affluence>AFF_POOR</Affluence>
+      <TechSavvy>TS_HIGH</TechSavvy>
+      <MovementModes/>
+      <WeaponAnimsFPSIdle>FirstPerson</WeaponAnimsFPSIdle>
+      <WeaponAnimsFPSRNG>FirstPersonRNG</WeaponAnimsFPSRNG>
+      <WeaponAnimsFPSLT>FirstPersonAiming</WeaponAnimsFPSLT>
+      <WeaponAnimsFPSScope>FirstPersonScope</WeaponAnimsFPSScope>
+    </Item>
+<!-- Jamaican Gang Personality ENDS HERE -->
+<!-- Korean Gang Personality STARTS HERE -->
+    <Item>
+      <PersonalityName>Weicheng</PersonalityName>
+      <DefaultWeaponLoadout>LOADOUT_ASIAN</DefaultWeaponLoadout>
+      <Bravery>Gang</Bravery>
+      <AgitatedPersonality>Confront</AgitatedPersonality>
+      <Criminality>Law_Abiding_Allow_Cop_Pursuit</Criminality>
+      <AgitationTriggers>Gang</AgitationTriggers>
+      <HealthConfigHash>Strong</HealthConfigHash>
+      <WeaponAnimations>
+        <Item>Gang</Item>
+        <Item>Gang1H</Item>
+      </WeaponAnimations>
+      <AmbientAudio>Gang</AmbientAudio>
+      <WitnessPersonality>default</WitnessPersonality>
+      <Agility>
+        <Flags>AF_CAN_DIVE</Flags>
+        <MovementCostModifier value="1.00000000"/>
+      </Agility>
+      <IsMale value="true"/>
+      <IsHuman value="true"/>
+      <ShouldRewardMoneyOnDeath value="true"/>
+      <IsGang value="true"/>
+      <IsSecurity value="false"/>
+      <IsWeird value="false"/>
+      <IsDangerousAnimal value="false"/>
+      <CausesRumbleWhenCollidesWithPlayer value="false"/>
+      <AllowSlowCruisingWithMusic value="false"/>
+      <AllowRoadCrossHurryOnLightChange value="false"/>
+      <VehicleTypes>PED_DRIVES_POOR_CAR PED_DRIVES_MOTORCYCLE PED_DRIVES_AVERAGE_CAR</VehicleTypes>
+      <AttackStrengthMin value="1.00000000"/>
+      <AttackStrengthMax value="1.20000000"/>
+      <StaminaEfficiency value="1.00000000"/>
+      <ArmourEfficiency value="1.00000000"/>
+      <HealthRegenEfficiency value="1.00000000"/>
+      <ExplosiveDamageMod value="1.00000000"/>
+      <HandGunDamageMod value="1.00000000"/>
+      <RifleDamageMod value="1.00000000"/>
+      <SmgDamageMod value="1.00000000"/>
+      <PopulationFleeMod value="1.00000000"/>
+      <HotwireRate value="1.00000000"/>
+      <MotivationMin value="0"/>
+      <MotivationMax value="0"/>
+      <DrivingAbilityMin value="8"/>
+      <DrivingAbilityMax value="10"/>
+      <DrivingAggressivenessMin value="7"/>
+      <DrivingAggressivenessMax value="10"/>
+      <Affluence>AFF_POOR</Affluence>
+      <TechSavvy>TS_HIGH</TechSavvy>
+      <MovementModes/>
+      <WeaponAnimsFPSIdle>FirstPerson</WeaponAnimsFPSIdle>
+      <WeaponAnimsFPSRNG>FirstPersonRNG</WeaponAnimsFPSRNG>
+      <WeaponAnimsFPSLT>FirstPersonAiming</WeaponAnimsFPSLT>
+      <WeaponAnimsFPSScope>FirstPersonScope</WeaponAnimsFPSScope>
+    </Item>
+    <Item>
+      <PersonalityName>Female_Weicheng</PersonalityName>
+      <DefaultWeaponLoadout>LOADOUT_ASIAN</DefaultWeaponLoadout>
+      <Bravery>Gang</Bravery>
+      <AgitatedPersonality>Confront</AgitatedPersonality>
+      <Criminality>Law_Abiding_Allow_Cop_Pursuit</Criminality>
+      <AgitationTriggers>Gang</AgitationTriggers>
+      <HealthConfigHash>AVERAGE</HealthConfigHash>
+      <WeaponAnimations>
+        <Item>GangFemale</Item>
+        <Item>Gang1H</Item>
+      </WeaponAnimations>
+      <AmbientAudio>Gang</AmbientAudio>
+      <WitnessPersonality>default</WitnessPersonality>
+      <Agility>
+        <Flags>AF_CAN_DIVE</Flags>
+        <MovementCostModifier value="1.00000000"/>
+      </Agility>
+      <IsMale value="false"/>
+      <IsHuman value="true"/>
+      <ShouldRewardMoneyOnDeath value="true"/>
+      <IsGang value="true"/>
+      <IsSecurity value="false"/>
+      <IsWeird value="false"/>
+      <IsDangerousAnimal value="false"/>
+      <CausesRumbleWhenCollidesWithPlayer value="false"/>
+      <AllowSlowCruisingWithMusic value="false"/>
+      <AllowRoadCrossHurryOnLightChange value="false"/>
+      <VehicleTypes>PED_DRIVES_POOR_CAR PED_DRIVES_MOTORCYCLE PED_DRIVES_AVERAGE_CAR</VehicleTypes>
+      <AttackStrengthMin value="1.00000000"/>
+      <AttackStrengthMax value="1.20000000"/>
+      <StaminaEfficiency value="1.00000000"/>
+      <ArmourEfficiency value="1.00000000"/>
+      <HealthRegenEfficiency value="1.00000000"/>
+      <ExplosiveDamageMod value="1.00000000"/>
+      <HandGunDamageMod value="1.00000000"/>
+      <RifleDamageMod value="1.00000000"/>
+      <SmgDamageMod value="1.00000000"/>
+      <PopulationFleeMod value="1.00000000"/>
+      <HotwireRate value="1.00000000"/>
+      <MotivationMin value="0"/>
+      <MotivationMax value="0"/>
+      <DrivingAbilityMin value="8"/>
+      <DrivingAbilityMax value="10"/>
+      <DrivingAggressivenessMin value="7"/>
+      <DrivingAggressivenessMax value="10"/>
+      <Affluence>AFF_POOR</Affluence>
+      <TechSavvy>TS_HIGH</TechSavvy>
+      <MovementModes/>
+      <WeaponAnimsFPSIdle>FirstPerson</WeaponAnimsFPSIdle>
+      <WeaponAnimsFPSRNG>FirstPersonRNG</WeaponAnimsFPSRNG>
+      <WeaponAnimsFPSLT>FirstPersonAiming</WeaponAnimsFPSLT>
+      <WeaponAnimsFPSScope>FirstPersonScope</WeaponAnimsFPSScope>
+    </Item>
+<!-- Korean Gang Personality ENDS HERE -->
+	</PedPersonalities>
+	<BraveryTypes />
+	<CriminalityTypes/>
+</CPedModelInfo__PersonalityDataList>

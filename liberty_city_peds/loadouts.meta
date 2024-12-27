@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPedInventoryLoadOutManager>
+	<LoadOuts>
+	  <Item>
+      <Name>LOADOUT_BOSS</Name>
+      <Items>
+        <Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_UNARMED</WeaponName>
+          <Ammo value="0" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+        <Item type="CLoadOutRandom">
+          <Items>
+            <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_KNIFE</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.900000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_DAGGER</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.200000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_BAT</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.100000" />
+            </Item>
+          </Items>
+        </Item>
+		    <Item type="CLoadOutRandom">
+          <Items>
+            <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_MICROSMG</WeaponName>
+                <Ammo value="105" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="1.000000" />
+            </Item>
+		      	<Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_VINTAGEPISTOL</WeaponName>
+                <Ammo value="105" />
+                <Flags />
+                <ComponentNames>
+					        <Item>COMPONENT_VINTAGEPISTOL_CLIP_02</Item>
+			        	</ComponentNames>
+              </Item>
+              <Chance value="0.500000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_MINIGUN</WeaponName>
+                <Ammo value="1500" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.300000" />
+            </Item>
+          </Items>
+        </Item>
+		    <Item type="CLoadOutRandom">
+          <Items>
+		      	<Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_MINIGUN</WeaponName>
+                <Ammo value="1500" />
+                <Flags>SelectThisWeapon</Flags>
+                <ComponentNames />
+              </Item>
+              <Chance value="0.100000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_MG</WeaponName>
+                <Ammo value="500" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.200000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_MICROSMG</WeaponName>
+                <Ammo value="250" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.300000" />
+            </Item>
+          </Items>
+        </Item>
+      </Items>
+    </Item>
+    <Item>
+      <Name>LOADOUT_ITALIAN</Name>
+      <Items>
+        <Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_UNARMED</WeaponName>
+          <Ammo value="0" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+        <Item type="CLoadOutRandom">
+          <Items>
+            <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_HATCHET</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.900000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_DAGGER</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.200000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_STONE_HATCHET</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.100000" />
+            </Item>
+          </Items>
+        </Item>
+		    <Item type="CLoadOutRandom">
+          <Items>
+            <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_VINTAGEPISTOL</WeaponName>
+                <Ammo value="105" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="1.000000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_VINTAGEPISTOL</WeaponName>
+                <Ammo value="105" />
+                <Flags />
+                <ComponentNames>
+					        <Item>COMPONENT_VINTAGEPISTOL_CLIP_02</Item>
+				        </ComponentNames>
+              </Item>
+              <Chance value="0.500000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_DOUBLEACTION</WeaponName>
+                <Ammo value="24" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.300000" />
+            </Item>
+          </Items>
+        </Item>
+	    	<Item type="CLoadOutRandom">
+          <Items>
+		        <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_DOUBLEACTION</WeaponName>
+                <Ammo value="10" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.400000" />
+            </Item>
+		        <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_GUSENBERG</WeaponName>
+                <Ammo value="150" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.200000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_VINTAGEPISTOL</WeaponName>
+                <Ammo value="250" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.100000" />
+            </Item>
+          </Items>
+        </Item>
+      </Items>
+    </Item>
+	    <Item>
+      <Name>LOADOUT_HUSTLER</Name>
+      <Items>
+        <Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_UNARMED</WeaponName>
+          <Ammo value="0" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+        <Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_BAT</WeaponName>
+          <Ammo value="0" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+		    <Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_PISTOL</WeaponName>
+          <Ammo value="100" />
+          <Flags>InfiniteAmmo</Flags>
+          <ComponentNames />
+        </Item>
+		    <Item type="CLoadOutRandom">
+          <Items>
+            <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_ASSAULTRIFLE</WeaponName>
+                <Ammo value="180" />
+                <Flags>EquipThisWeapon</Flags>
+                <ComponentNames />
+              </Item>
+              <Chance value="1.000000" />
+            </Item>
+			      <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_PISTOL</WeaponName>
+                <Ammo value="100" />
+               <Flags>InfiniteAmmo</Flags>
+              <ComponentNames />
+              </Item>
+              <Chance value="0.500000" />
+            </Item>
+            <Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_MICROSMG</WeaponName>
+                <Ammo value="500" />
+                <Flags>SelectThisWeapon</Flags>
+                <ComponentNames />
+              </Item>
+              <Chance value="0.800000" />
+            </Item>
+		      	<Item>
+              <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_DAGGER</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+              </Item>
+              <Chance value="0.700000" />
+            </Item>
+          </Items>
+        </Item>
+      </Items>
+    </Item>
+		<Item>
+			<Name>LOADOUT_LIBERTY_CITY_GANG_JAMAICAN</Name>
+			<Items>
+				<Item type="CLoadOutWeapon">
+					<WeaponName>WEAPON_PISTOL</WeaponName>
+					<Ammo value="500" />
+					<Flags />
+					<ComponentNames />
+				</Item>
+			</Items>
+		</Item>
+<!-- JAMAICAN GANG loadouts STARTS HERE -->
+		<Item>
+			<Name>LOADOUT_PIMP</Name>
+			<Items>
+				<Item type="CLoadOutWeapon">
+					<WeaponName>WEAPON_UNARMED</WeaponName>
+					<Ammo value="0" />
+					<Flags />
+					<ComponentNames />
+				</Item>
+				<Item type="CLoadOutRandom">
+					<Items>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_KNUCKLE</WeaponName>
+								<Ammo value="0" />
+								<Flags />
+								<ComponentNames />
+							</Item>
+							<Chance value="0.900000" />
+						</Item>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_DAGGER</WeaponName>
+								<Ammo value="0" />
+								<Flags />
+								<ComponentNames />
+							</Item>
+							<Chance value="0.200000" />
+						</Item>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_DAGGER</WeaponName>
+								<Ammo value="0" />
+								<Flags />
+								<ComponentNames />
+							</Item>
+							<Chance value="0.100000" />
+						</Item>
+					</Items>
+				</Item>
+				<Item type="CLoadOutRandom">
+					<Items>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_PISTOLXM3</WeaponName>
+								<Ammo value="105" />
+								<Flags />
+								<ComponentNames />
+							</Item>
+							<Chance value="1.000000" />
+						</Item>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_VINTAGEPISTOL</WeaponName>
+								<Ammo value="105" />
+								<Flags />
+								<ComponentNames>
+									<Item>COMPONENT_VINTAGEPISTOL_CLIP_02</Item>
+								</ComponentNames>
+							</Item>
+							<Chance value="0.500000" />
+						</Item>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_DOUBLEACTION</WeaponName>
+								<Ammo value="24" />
+								<Flags />
+								<ComponentNames />
+							</Item>
+							<Chance value="0.300000" />
+						</Item>
+					</Items>
+				</Item>
+				<Item type="CLoadOutRandom">
+					<Items>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_DOUBLEACTION</WeaponName>
+								<Ammo value="10" />
+								<Flags />
+								<ComponentNames />
+							</Item>
+							<Chance value="0.400000" />
+						</Item>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_GUSENBERG</WeaponName>
+								<Ammo value="150" />
+								<Flags />
+								<ComponentNames />
+							</Item>
+							<Chance value="0.200000" />
+						</Item>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_VINTAGEPISTOL</WeaponName>
+								<Ammo value="250" />
+								<Flags />
+								<ComponentNames />
+							</Item>
+							<Chance value="0.100000" />
+						</Item>
+					</Items>
+				</Item>
+			</Items>
+		</Item>
+		<!--  -->
+		<Item>
+			<Name>LOADOUT_HUSTLER</Name>
+			<Items>
+				<Item type="CLoadOutWeapon">
+					<WeaponName>WEAPON_UNARMED</WeaponName>
+					<Ammo value="0" />
+					<Flags />
+					<ComponentNames />
+				</Item>
+				<Item type="CLoadOutWeapon">
+					<WeaponName>WEAPON_BAT</WeaponName>
+					<Ammo value="0" />
+					<Flags />
+					<ComponentNames />
+				</Item>
+				<Item type="CLoadOutWeapon">
+					<WeaponName>WEAPON_PISTOL</WeaponName>
+					<Ammo value="100" />
+					<Flags>InfiniteAmmo</Flags>
+					<ComponentNames />
+				</Item>
+				<Item type="CLoadOutRandom">
+					<Items>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_ASSAULTRIFLE</WeaponName>
+								<Ammo value="180" />
+								<Flags>EquipThisWeapon</Flags>
+								<ComponentNames />
+							</Item>
+							<Chance value="1.000000" />
+						</Item>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_PISTOL</WeaponName>
+								<Ammo value="100" />
+								<Flags>InfiniteAmmo</Flags>
+								<ComponentNames />
+							</Item>
+							<Chance value="0.500000" />
+						</Item>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_MICROSMG</WeaponName>
+								<Ammo value="500" />
+								<Flags>SelectThisWeapon</Flags>
+								<ComponentNames />
+							</Item>
+							<Chance value="0.800000" />
+						</Item>
+						<Item>
+							<Item type="CLoadOutWeapon">
+								<WeaponName>WEAPON_DAGGER</WeaponName>
+								<Ammo value="0" />
+								<Flags />
+								<ComponentNames />
+							</Item>
+							<Chance value="0.700000" />
+						</Item>
+					</Items>
+				</Item>
+			</Items>
+		</Item>
+<!-- JAMAICAN GANG loadouts ENDS HERE -->
+	</LoadOuts>
+</CPedInventoryLoadOutManager>
+<!-- eof -->

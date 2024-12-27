@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="7126027" />
+  <NameTable>
+  <Item>DLC_LIMO\LIMO</Item>
+  <Item>DLC_LIMO\LIMO_NPC</Item>
+ </NameTable>
+ <Items>
+  <Item type="EnvironmentSound">
+   <Name>limo_exhaust_accel</Name>
+   <Header>
+    <Flags value="0x00208000" />
+    <Category>hash_F7C35252</Category>
+    <Unk18 value="150" />
+   </Header>
+   <UnkByte value="1" />
+  </Item>
+  <Item type="GranularSound">
+   <Name>limo_engine_accel</Name>
+   <Header>
+    <Flags value="0x00208001" />
+    <Flags2 value="0x9555AAAA" />
+    <Category>hash_F7C35252</Category>
+    <Unk18 value="150" />
+   </Header>
+   <WaveSlotIndex value="0" />
+   <Wave1>
+    <ContainerName>dlc_limo/limo</ContainerName>
+    <FileName>engine_accel</FileName>
+   </Wave1>
+   <Wave2>
+    <ContainerName>dlc_limo/limo</ContainerName>
+    <FileName>exhaust_accel</FileName>
+   </Wave2>
+   <Wave3>
+    <ContainerName>dlc_limo/limo</ContainerName>
+    <FileName>engine_decel</FileName>
+   </Wave3>
+   <Wave4>
+    <ContainerName>dlc_limo/limo</ContainerName>
+    <FileName>exhaust_decel</FileName>
+   </Wave4>
+   <Wave5>
+    <ContainerName>dlc_limo/limo</ContainerName>
+    <FileName>engine_idle</FileName>
+   </Wave5>
+   <Wave6>
+    <ContainerName>dlc_limo/limo</ContainerName>
+    <FileName>exhaust_idle</FileName>
+   </Wave6>
+   <DataItem1>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem1>
+   <DataItem2>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem2>
+   <DataItem3>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem3>
+   <DataItem4>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem4>
+   <DataItem5>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem5>
+   <DataItem6>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem6>
+   <UnkFloat0 value="0.01" />
+   <UnkFloat1 value="0.05" />
+   <UnkShort0 value="400" />
+   <UnkShort1 value="400" />
+   <UnkShort2 value="200" />
+   <UnkShort3 value="500" />
+   <UnkShort4 value="-900" />
+   <UnkShort5 value="100" />
+   <TrackName />
+   <UnkVecData>
+    14.12, 55.88
+    14.92, 14.92
+   </UnkVecData>
+  </Item>
+  <Item type="GranularSound">
+   <Name>limo_engine_accel_npc</Name>
+   <Header>
+    <Flags value="0x00208001" />
+    <Flags2 value="0x9555AAAA" />
+    <Category>hash_F7C35252</Category>
+    <Unk18 value="150" />
+   </Header>
+   <WaveSlotIndex value="0" />
+   <Wave1>
+    <ContainerName>dlc_limo/limo_npc</ContainerName>
+    <FileName>engine_accel</FileName>
+   </Wave1>
+   <Wave2>
+    <ContainerName>dlc_limo/limo_npc</ContainerName>
+    <FileName>exhaust_accel</FileName>
+   </Wave2>
+   <Wave3>
+    <ContainerName>0</ContainerName>
+    <FileName />
+   </Wave3>
+   <Wave4>
+    <ContainerName>0</ContainerName>
+    <FileName />
+   </Wave4>
+   <Wave5>
+    <ContainerName>dlc_limo/limo_npc</ContainerName>
+    <FileName>engine_idle</FileName>
+   </Wave5>
+   <Wave6>
+    <ContainerName>dlc_limo/limo_npc</ContainerName>
+    <FileName>exhaust_idle</FileName>
+   </Wave6>
+   <DataItem1>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem1>
+   <DataItem2>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem2>
+   <DataItem3>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem3>
+   <DataItem4>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem4>
+   <DataItem5>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem5>
+   <DataItem6>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem6>
+   <UnkFloat0 value="0.01" />
+   <UnkFloat1 value="0.05" />
+   <UnkShort0 value="0" />
+   <UnkShort1 value="0" />
+   <UnkShort2 value="-300" />
+   <UnkShort3 value="0" />
+   <UnkShort4 value="-1000" />
+   <UnkShort5 value="0" />
+   <TrackName>limo_engine_accel</TrackName>
+   <UnkVecData>
+    23.09, 57.76
+    12, 12
+   </UnkVecData>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>limo_startup_master</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>vehicles_engines_startup</Category>
+   </Header>
+   <AudioHash0>limo_startup_if</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_B807DF3E</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>limo_startup_if</Item>
+    <Item>hash_B807DF3E</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="IfSound">
+   <Name>limo_startup_if</Name>
+   <Header>
+    <Flags value="0x00000001" />
+    <Flags2 value="0xAAA8AAAA" />
+   </Header>
+   <AudioHash1>limo_startup</AudioHash1>
+   <AudioHash2>limo_startup_interior_stereo</AudioHash2>
+   <ParameterHash1>hash_378A1D92</ParameterHash1>
+   <UnkByte value="4" />
+   <UnkFloat value="0" />
+   <ParameterHash2 />
+  </Item>
+  <Item type="MultitrackSound">
+   <Name>limo_startup_interior_stereo</Name>
+   <Header>
+    <Flags value="0x00000001" />
+    <Flags2 value="0xAAA0AAAA" />
+   </Header>
+   <AudioTracks>
+    <Item>limo_start_up_interior_left</Item>
+    <Item>limo_start_up_interior_right</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>limo_start_up_interior_left</Name>
+   <Header>
+    <Flags value="0x00000040" />
+    <Unk06 value="307" />
+   </Header>
+   <ContainerName>dlc_limo/limo</ContainerName>
+   <FileName>start_up_interior_left</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>limo_start_up_interior_right</Name>
+   <Header>
+    <Flags value="0x00000040" />
+    <Unk06 value="53" />
+   </Header>
+   <ContainerName>dlc_limo/limo</ContainerName>
+   <FileName>start_up_interior_right</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>limo_startup</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>vehicles_engines_startup</Category>
+   </Header>
+   <ContainerName>dlc_limo/limo</ContainerName>
+   <FileName>start_up</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>limo_shutdown</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>vehicles_engines_startup</Category>
+   </Header>
+   <ContainerName>dlc_limo/limo</ContainerName>
+   <FileName>shut_down</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="WrapperSound">
+   <Name>limo_exhaust_pop_master</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>vehicles_extras_loud</Category>
+   </Header>
+   <AudioHash0>limo_exhaust_pops</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_0C2B85F2</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>limo_exhaust_pops</Item>
+    <Item>hash_0C2B85F2</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="MultitrackSound">
+   <Name>limo_exhaust_pops</Name>
+   <Header>
+    <Flags value="0x00000001" />
+    <Flags2 value="0xAAA0AAAA" />
+   </Header>
+   <AudioTracks>
+    <Item>limo_exhaust_pop_rnd</Item>
+    <Item>limo_exhaust_pop_wrapper</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>limo_exhaust_pop_rnd</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes>FF FF</UnkBytes>
+   <Items>
+    <Item key="limo_exhaust_pop_01" value="1" />
+    <Item key="limo_exhaust_pop_02" value="1" />
+    <Item key="limo_exhaust_pop_03" value="1" />
+    <Item key="limo_exhaust_pop_04" value="1" />
+   </Items>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>limo_exhaust_pop_01</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_limo/limo</ContainerName>
+   <FileName>cog55_exhaust_pop_01</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>limo_exhaust_pop_02</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_limo/limo</ContainerName>
+   <FileName>cog55_exhaust_pop_02</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>limo_exhaust_pop_03</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_limo/limo</ContainerName>
+   <FileName>cog55_exhaust_pop_03</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>limo_exhaust_pop_04</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_limo/limo</ContainerName>
+   <FileName>cog55_exhaust_pop_04</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="WrapperSound">
+   <Name>limo_exhaust_pop_wrapper</Name>
+   <Header>
+    <Flags value="0x00000014" />
+    <Unk02 value="64536" />
+    <Unk04 value="400" />
+   </Header>
+   <AudioHash0>hash_6095AA8D</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1 />
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>hash_6095AA8D</Item>
+    <Item />
+   </AudioTracks>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>limo_door_close</Name>
+   <Header>
+    <Flags value="0x00000010" />
+    <Unk04 value="65336" />
+   </Header>
+   <AudioHash0>hash_07F82759</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1 />
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>hash_07F82759</Item>
+    <Item />
+   </AudioTracks>
+  </Item>
+ </Items>
+</Dat54>

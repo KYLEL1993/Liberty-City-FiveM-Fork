@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat16>
+ <Version value="29397344" />
+ <Items>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>ambient_roadnoise_time_to_volume</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0, 0.4
+    8, 1
+    21, 1
+    22, 0.4
+    24, 0.4
+   </Points>
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>ambient_roadnoise_vehicles_to_volume</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0, 0
+    55, 0.6
+   </Points>
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>ambient_roadnoise_built_up_to_volume</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0.5, 0
+    1, 0.6
+   </Points>
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>ambient_roadnoise_height_to_cutoff</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0, 23900
+    75, 23900
+    175, 7000
+   </Points>
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>ambient_roadnoise_owo_to_volume</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0, 1
+    1, 1
+   </Points>
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>ambient_roadnoise_owo_to_cutoff</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0, 23900
+    0.8, 12000
+    1, 8000
+   </Points>
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>ambient_roadnoise_frf_to_volume</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0, 1
+    1, 1
+   </Points>
+  </Item>
+  <Item type="LinearCurve" ntOffset="1941">
+   <Name>ambient_roadnoise_height_above</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <LeftHandPairX value="110.768" />
+   <LeftHandPairY value="0.47" />
+   <RightHandPairX value="150" />
+   <RightHandPairY value="0.209" />
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>blocked_to_ambient_volume</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0, 1
+    0.7, 0.7
+    1, 0.1
+   </Points>
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>occlusion_factor_to_cutoff_frequency</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0.5, 23900
+    0.75, 19000
+    1, 11000
+   </Points>
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>occlusion_factor_to_linear_volume</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0, 1
+    0.2, 1
+    0.5, 1
+    0.75, 0.7
+    1, 0.5
+   </Points>
+  </Item>
+  <Item type="PiecewiseLinearCurve" ntOffset="1863">
+   <Name>occlusion_factor_to_linear_volume_vertical</Name>
+   <Flags value="0xAAAAAAAA" />
+   <MinInput value="0" />
+   <MaxInput value="1" />
+   <Points>
+    0, 1
+    0.2, 1
+    0.5, 1
+    0.75, 0.5
+    1, 0.25
+   </Points>
+  </Item>
+ </Items>
+</Dat16>

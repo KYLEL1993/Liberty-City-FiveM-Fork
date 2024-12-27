@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CStreamingRequestMasterList>
+  <Files>
+    <Item>resources:/libertycity/stream/srl/lc_lca_land_nimb_srl</Item>
+	  <Item>resources:/libertycity/stream/srl/lc_lca_take_nimb2_srl</Item>
+  </Files>
+ </CStreamingRequestMasterList>

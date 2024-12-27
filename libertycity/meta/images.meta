@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataFiles>
+	<Item>
+		<filename>platform:/levels/gta5/waypointrec.rpf</filename>
+		<contents>CONTENTS_MAP</contents>
+		<fileType>RPF_FILE</fileType>
+		<installPartition>PARTITION_2</installPartition>
+	</Item>
+	<Item>
+		<filename>platform:/textures/script_txds.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+		<locked value="true" />
+	</Item>
+	<Item>
+		<filename>platform:/textures/waterfog_txds.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+	</Item>
+	<Item>
+		<filename>platform:/textures/waterfog_txds_dx.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+	</Item>
+	<Item>
+		<filename>platform:/levels/gta5/generic/icons.rpf</filename>
+		<contents>CONTENTS_MAP</contents>
+		<fileType>RPF_FILE_PRE_INSTALL</fileType>
+		<installPartition>PARTITION_2</installPartition>
+	</Item>
+	<Item>
+		<filename>platform:/levels/gta5/cloudhats/v_clouds.rpf</filename>
+		<contents>CONTENTS_MAP</contents>
+		<fileType>RPF_FILE_PRE_INSTALL</fileType>
+		<installPartition>PARTITION_2</installPartition>
+	</Item>
+	<Item>
+		<filename>platform:/models/cdimages/ped_mp_overlay_txds.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+	</Item>
+	<Item>
+		<filename>platform:/models/cdimages/ped_sp_overlay_txds.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+	</Item>
+	<Item>
+		<filename>platform:/models/cdimages/ped_tattoo_txds.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+	</Item>
+	<Item>
+		<filename>platform:/models/cdimages/ped_mugshot_txds.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+	</Item>
+</dataFiles>

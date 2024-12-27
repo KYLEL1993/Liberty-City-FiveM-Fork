@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="7126027" />
+ <Items>
+  <Item type="SoundList">
+   <Name>horn_list_emperor</Name>
+   <Header>
+    <Flags value="0xAAAAAAAA" />
+   </Header>
+   <UnkShort value="0" />
+   <Items>
+    <Item>emperor_horn</Item>
+   </Items>
+  </Item>
+  <Item type="SoundList">
+   <Name>horn_list_emperor2</Name>
+   <Header>
+    <Flags value="0xAAAAAAAA" />
+   </Header>
+   <UnkShort value="0" />
+   <Items>
+    <Item>broken_horn_emperor</Item>
+   </Items>
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>police_scanner_category_emperor2_b</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes />
+   <Items>
+    <Item key="hash_67B1F66F" value="0.5" /><!--sedan-->
+    <Item key="hash_83077C9B" value="0.5" /><!--4-door-->
+    <Item key="hash_896245CF" value="1" /><!--junker-->
+    <Item key="hash_B1CF0242" value="1" /><!--jalopy-->
+   </Items>
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>police_scanner_prefix_emperor2_b</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes />
+   <Items>
+    <Item key="hash_D8302D26" value="1" /><!--beat-up-->
+    <Item key="hash_45C58A85" value="1" /><!--distressed-->
+    <Item key="hash_0FE903A2" value="1" /><!--run-down-->
+    <Item key="hash_8DA10CAA" value="0.5" /><!--rusty-->
+   </Items>
+  </Item>
+ </Items>
+</Dat54>

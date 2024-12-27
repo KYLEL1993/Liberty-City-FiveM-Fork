@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CAmbientModelSets>
+	<ModelSets>
+<!-- JAMAICAN GANG STARTS HERE -->
+		<Item type="CAmbientModelSet">
+			<Name>GANG_JAMAICAN</Name>
+			<Models>
+				<Item>
+					<Name>G_M_Y_Jamaican_01</Name>
+					<Variations type="NULL" />
+					<Probability value="0.500000" />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Jamaican_02</Name>
+					<Variations type="NULL" />
+					<Probability value="1.000000" />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Pimp_01</Name>
+					<Variations type="NULL" />
+					<Probability value="0.500000" />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Pimp_02</Name>
+					<Variations type="NULL" />
+					<Probability value="1.000000" />
+				</Item>
+			</Models>
+		</Item>
+		<Item type="CAmbientModelSet">
+			<Name>PIMP_CLUB</Name>
+			<Models>
+				<Item>
+					<Name>G_M_Y_Pimp_01</Name>
+					<Variations type="NULL" />
+					<Probability value="1.000000" />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Pimp_02</Name>
+					<Variations type="NULL" />
+					<Probability value="1.000000" />
+				</Item>
+			</Models>
+		</Item>
+<!-- JAMAICAN GANG ENDS HERE -->
+<!-- RUSSIAN GANG STARTS HERE -->
+		<Item type="CAmbientModelSet">
+			<Name>GANG_RUSSIAN</Name>
+			<Models>
+				<Item>
+					<Name>ig_russian_goon_01</Name>
+					<Variations type="NULL" />
+					<Probability value="1.000000" />
+				</Item>
+				<Item>
+					<Name>ig_russian_goon_02</Name>
+					<Variations type="NULL" />
+					<Probability value="1.000000" />
+				</Item>
+				<Item>
+					<Name>ig_russian_goon_03</Name>
+					<Variations type="NULL" />
+					<Probability value="1.000000" />
+				</Item>
+				<Item>
+					<Name>ig_russian_goon_04</Name>
+					<Variations type="NULL" />
+					<Probability value="1.000000" />
+				</Item>
+								<Item>
+					<Name>ig_russian_goon_05</Name>
+					<Variations type="NULL" />
+					<Probability value="1.000000" />
+				</Item>
+			</Models>
+		</Item>
+<!-- RUSSIAN GANG ENDS HERE -->
+<!-- KOREAN GANG STARTS HERE -->
+    <Item type="CAmbientModelSet">
+      <Name>GANG_KOREAN_LC</Name>
+      <Models>
+        <Item>
+          <Name>G_M_M_ChiBoss_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+				<Item>
+          <Name>G_M_M_FatBoss_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+		    <Item>
+          <Name>G_M_M_Shaolin_01_LC</Name>
+          <Variations />
+        </Item>
+				<Item>
+          <Name>G_M_M_KorSuit_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>G_M_M_ChiGoon_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>G_M_M_ChiGoon_02_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+				<Item>
+          <Name>G_M_M_ChiSuit_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>G_M_M_Korboss_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+				<Item>
+          <Name>G_M_M_KorPunk_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>G_M_Y_KorLieut_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+				<Item>
+          <Name>G_M_Y_KorStreet_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>G_M_Y_Korean_01_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>G_M_Y_Korean_02_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+				<Item>
+          <Name>G_M_Y_Korean_03_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>    
+				<Item>
+          <Name>G_M_Y_Korean_04_LC</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>    
+      </Models>
+    </Item>
+<!-- KOREAN GANG ENDS HERE -->
+	</ModelSets>
+</CAmbientModelSets>
+<!-- eof -->

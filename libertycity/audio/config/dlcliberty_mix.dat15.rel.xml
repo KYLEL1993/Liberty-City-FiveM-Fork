@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat15>
+ <Version value="29466453" />
+ <Items>
+  <Item type="Scene" ntOffset="922">
+   <Name>dlcliberty_city_category_mix_patch</Name>
+   <Flags value="0xAAAA0001" />
+   <OnStopScene />
+   <PatchGroups>
+    <Item>
+     <Patch>dlcliberty_city_loud_mix_patch</Patch>
+     <Group />
+    </Item>
+    <Item>
+     <Patch>dlcliberty_city_vehicle_loud_mix_patch</Patch>
+     <Group>player_group</Group>
+    </Item>
+   </PatchGroups>
+  </Item>
+  <Item type="Scene" ntOffset="922">
+   <Name>dlcliberty_city_noise_room_mix_scene</Name>
+   <Flags value="0xAAAA0001" />
+   <OnStopScene />
+   <PatchGroups>
+    <Item>
+     <Patch>dlcliberty_city_noise_room_mix_patch</Patch>
+     <Group />
+    </Item>
+   </PatchGroups>
+  </Item>
+  <Item type="Patch" ntOffset="998">
+   <Name>dlcliberty_city_loud_mix_patch</Name>
+   <Flags value="0xAAAAAAA1" />
+   <FadeIn value="200" />
+   <FadeOut value="200" />
+   <PreDelay value="0" />
+   <Duration value="0" />
+   <ApplyFactorCurve>constant_one</ApplyFactorCurve>
+   <ApplyVariable>apply</ApplyVariable>
+   <ApplySmoothRate value="0" />
+   <MixCategories>
+    <Item>
+     <Category>vehicles_horns</Category>
+     <Volume value="300" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="0.5" />
+    </Item>
+    <Item>
+     <Category>vehicles_brakes</Category>
+     <Volume value="800" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="0.5" />
+    </Item>
+    <Item>
+     <Category>vehicles_wheels_road_noise</Category>
+     <Volume value="700" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="0.65" />
+    </Item>
+    <Item>
+     <Category>vehicles_engines</Category>
+     <Volume value="0" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="0.3" />
+    </Item>
+    <Item>
+     <Category>peds_footsteps</Category>
+     <Volume value="500" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="0.6" />
+    </Item>
+   </MixCategories>
+  </Item>
+  <Item type="Patch" ntOffset="998">
+   <Name>dlcliberty_city_vehicle_loud_mix_patch</Name>
+   <Flags value="0xAAAAAAA1" />
+   <FadeIn value="200" />
+   <FadeOut value="200" />
+   <PreDelay value="0" />
+   <Duration value="0" />
+   <ApplyFactorCurve>constant_one</ApplyFactorCurve>
+   <ApplyVariable>apply</ApplyVariable>
+   <ApplySmoothRate value="0" />
+   <MixCategories>
+    <Item>
+     <Category>vehicles_engines</Category>
+     <Volume value="0" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="0.7" />
+    </Item>
+    <Item>
+     <Category>vehicles_wheels_road_noise</Category>
+     <Volume value="350" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="0.5" />
+    </Item>
+   </MixCategories>
+  </Item>
+  <Item type="Patch" ntOffset="998">
+   <Name>dlcliberty_city_noise_room_mix_patch</Name>
+   <Flags value="0xAAAAAAA1" />
+   <FadeIn value="1000" />
+   <FadeOut value="1000" />
+   <PreDelay value="0" />
+   <Duration value="0" />
+   <ApplyFactorCurve>constant_one</ApplyFactorCurve>
+   <ApplyVariable>apply</ApplyVariable>
+   <ApplySmoothRate value="0" />
+   <MixCategories>
+    <Item>
+     <Category>ambience_birds</Category>
+     <Volume value="-3200" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="0.5" />
+    </Item>
+    <Item>
+     <Category>ambience_insects</Category>
+     <Volume value="-1600" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="1" />
+    </Item>
+    <Item>
+     <Category>ambience_industrial</Category>
+     <Volume value="-4600" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="1" />
+    </Item>
+    <Item>
+     <Category>water</Category>
+     <Volume value="0" />
+     <VolumeInvert value="1" />
+     <LPFCutoff value="23900" />
+     <HPFCutoff value="0" />
+     <Pitch value="0" />
+     <Frequency value="1" />
+     <PitchInvert value="1" />
+     <Rolloff value="0.5" />
+    </Item>
+   </MixCategories>
+  </Item>
+ </Items>
+</Dat15>
