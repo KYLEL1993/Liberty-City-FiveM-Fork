@@ -2,8 +2,104 @@
 
 <train_tracks version = "1">
     <train_track
-        filename="resources:/libertycity/trains/paths/trains13.dat"
+        filename="common:/data/levels/gta5/trains1.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="15"
+        brakingDist="20"/>
+    <train_track
+        filename="common:/data/levels/gta5/trains2.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+    <train_track
+        filename="common:/data/levels/gta5/trains3.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+     <train_track
+        filename="common:/data/levels/gta5/trains4.dat"
         trainConfigName="metro_group"
+        isPingPongTrack="false"
+        stopsAtStations="true"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+     <train_track
+        filename="common:/data/levels/gta5/trains5.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+     <train_track
+        filename="common:/data/levels/gta5/trains6.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+    <train_track
+        filename="common:/data/levels/gta5/trains7.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+    <train_track
+        filename="common:/data/levels/gta5/trains8.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+    <train_track
+        filename="common:/data/levels/gta5/trains9.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+    <train_track
+        filename="common:/data/levels/gta5/trains10.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+    <train_track
+        filename="common:/data/levels/gta5/trains11.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="8"
+        brakingDist="10"/>
+    <train_track
+        filename="common:/data/levels/gta5/trains12.dat"
+        trainConfigName="freight_group"
+        isPingPongTrack="false"
+        stopsAtStations="false"
+        MPstopsAtStations="true"
+        speed="15"
+        brakingDist="20"/>
+    <train_track
+        filename="resources:/libertycity/trains/paths/trains13.dat"
+        trainConfigName="subway_group"
         isPingPongTrack="false"
         stopsAtStations="true"
         MPstopsAtStations="true"
@@ -11,7 +107,7 @@
         brakingDist="31"/>
     <train_track
         filename="resources:/libertycity/trains/paths/trains14.dat"
-        trainConfigName="metro_group"
+        trainConfigName="subway_group"
         isPingPongTrack="false"
         stopsAtStations="true"
         MPstopsAtStations="true"
@@ -19,7 +115,7 @@
         brakingDist="31"/>
     <train_track
         filename="resources:/libertycity/trains/paths/trains15.dat"
-        trainConfigName="metro_group"
+        trainConfigName="subway_group"
         isPingPongTrack="false"
         stopsAtStations="true"
         MPstopsAtStations="true"
@@ -27,7 +123,7 @@
         brakingDist="31"/>
     <train_track
         filename="resources:/libertycity/trains/paths/trains16.dat"
-        trainConfigName="metro_group"
+        trainConfigName="subway_group"
         isPingPongTrack="false"
         stopsAtStations="true"
         MPstopsAtStations="true"
@@ -35,7 +131,7 @@
         brakingDist="31"/>
     <train_track
         filename="resources:/libertycity/trains/paths/trains17.dat"
-        trainConfigName="metro_group"
+        trainConfigName="subway_group"
         isPingPongTrack="false"
         stopsAtStations="true"
         MPstopsAtStations="true"

@@ -284,7 +284,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>POLICE</audioNameHash>
+      <audioNameHash />
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>SHERIFF_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -9106,10 +9106,6 @@
     </Item>
     <Item>
       <parent>vehicles_poltax_interior</parent>
-      <child>fdlc</child>
-    </Item>
-    <Item>
-      <parent>vehicles_poltax_interior</parent>
       <child>lcpd</child>
     </Item>
     <Item>
@@ -9135,6 +9131,10 @@
     <Item>
       <parent>vehicles_poltax_interior</parent>
       <child>ncar</child>
+    </Item>
+    <Item>
+      <parent>vehicles_poltax_w_interior</parent>
+      <child>fdlc</child>
     </Item>
     <Item>
       <parent>vehicles_poltax_w_interior</parent>
