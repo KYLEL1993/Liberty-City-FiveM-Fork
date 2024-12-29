@@ -1,6 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
+replace_level_meta 'meta/gta5'
+
 lua54 'yes'
 this_is_a_map 'yes'
 
@@ -8,8 +10,6 @@ name 'Liberty City'
 author 'Liberty City Preservation Project'
 version '1.0.0'
 description 'Map conversion of Rockstar Games GTA IV Liberty City for FiveM'
-
-replace_level_meta 'meta/gta5'
 
 files {
     'data/**/*',
@@ -37,6 +37,7 @@ client_scripts {
 	'scripts/map_zoom.lua',
 	'scripts/water_natives.lua',
     'scripts/subway_lc.lua',
+	'scripts/unload_los_santos.lua'
 }
 
 -- Liberty City ITYPs
