@@ -2,12 +2,32 @@
 
 <CAmbientModelSets>
   <ModelSets>
-  <!-- LC MAIN VEHS START HERE -->
+          <!-- LC MAIN VEHS START HERE -->
 	<Item type="CAmbientModelSet">
       <Name>LCAIRPORT</Name>
       <Models>
         <Item>
           <Name>jet2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+		<Item type="CAmbientModelSet">
+      <Name>lcsultan</Name>
+      <Models>
+        <Item>
+          <Name>lcsultan</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>lccognoscenti</Name>
+      <Models>
+        <Item>
+          <Name>lccognoscenti</Name>
           <Variations type="NULL" />
           <Probability value="1.000000" />
         </Item>
@@ -792,7 +812,7 @@
       <Name>LCGEN_BIKE</Name>
       <Models>
         <Item>
-          <Name>jet2</Name>
+          <Name>lcnrg900</Name>
           <Variations type="NULL" />
           <Probability value="1.000000" />
         </Item>

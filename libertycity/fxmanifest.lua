@@ -11,12 +11,17 @@ author 'Liberty City Preservation Project'
 version '1.0.0'
 description 'Map conversion of Rockstar Games GTA IV Liberty City for FiveM'
 
+replace_level_meta 'meta/gta5'
+
 files {
     'data/**/*',
 	'meta/**/*',
 	'trains/**/*',
 	'stream/srl/*.ymt',
 	'stream/dlc/props/**/*.ytyp',
+	'stream/dlc/props/**/**/*.ytyp',
+	'stream/dlc/props/street/amenitie/amenitie.ytyp',
+	'stream/dlc/props/roadside/rubbish/rubbish.ytyp',
 	'audio/config/dlcliberty_curves.dat16.rel',
 	'audio/config/dlcliberty_mix.dat15.rel',
 	'audio/config/dlcliberty_sounds.dat54.rel',
@@ -43,13 +48,16 @@ client_scripts {
 -- Liberty City ITYPs
 data_file 'DLC_ITYP_REQUEST' 'stream/dlc/props/**/*.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/dlc/props/**/**/*.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/dlc/props/street/amenitie/amenitie.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/dlc/props/roadside/rubbish/rubbish.ytyp'
 
 -- Liberty City Data
 data_file 'DLC_POP_GROUPS' 'data/ymt/popgroups.ymt'
 data_file 'ZONEBIND_FILE' 'data/ymt/zonebind.meta'
 data_file 'STREAMING_REQUEST_LISTS_FILE' 'meta/srllist.meta'
 data_file 'GTXD_PARENTING_DATA' 'meta/gtxd.meta'
-data_file "SCENARIO_POINTS_PSO_FILE" "data/ymt/sp_manifest.ymt"
+data_file 'SCENARIO_INFO_FILE' 'meta/scenario.meta'
+data_file "SCENARIO_POINTS_PSO_FILE" "meta/sp_manifest.meta"
 data_file 'AMBIENT_PED_MODEL_SET_FILE' 'meta/ambientpedmodelsets.meta'
 data_file 'TIMECYCLEMOD_FILE' 'data/xml/timecycle_mods_lc.xml'
 data_file 'POPSCHED_FILE' 'data/dat/popcycle.dat'

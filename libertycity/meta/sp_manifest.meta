@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CScenarioPointManifest>
+  <VersionNumber value="0" />
+  <RegionDefs>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/timesquare</Name>
+	   <AABB>
+		<min x="4617.02539" y="-3340.052" z="-42.595642" />
+		<max x="5369.2666" y="-2670.96167" z="1670.8733" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/centralpark</Name>
+	   <AABB>
+		<min x="4465.75" y="-2662.161" z="-96.96088" />
+		<max x="5493.62" y="-2060.741" z="341.94342" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/northmanhat</Name>
+	   <AABB>
+		<min x="4533.25537" y="-2063.87915" z="-30.221249" />
+		<max x="5361.351" y="-1334.78015" z="1928.29419" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/lcairport</Name>
+	   <AABB>
+		<min x="7063.8037" y="-3607.7073" z="4.807461" />
+		<max x="8674.133" y="-1966.86523" z="1825.1355" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/alderneyhappy</Name>
+	   <AABB>
+		<min x="2641.799" y="-4330.90137" z="-0.6803522" />
+		<max x="4689.04" y="2080.033" z="1203.68689" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/northalderney</Name>
+	   <AABB>
+		<min x="3613.94458" y="-2095.55469" z="-2.229965" />
+		<max x="4478.956" y="-1271.16492" z="953.5701" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/fireflyisland</Name>
+	   <AABB>
+		<min x="5751.88135" y="-4240.998" z="-3.35277987" />
+		<max x="6902.288" y="-3549.04224" z="1339.72876" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/dukeswest</Name>
+	   <AABB>
+		<min x="5475.26563" y="-3501.3772" z="1.72694314" />
+		<max x="6510.1543" y="-2156.72729" z="1033.56055" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/dukenortheast</Name>
+	   <AABB>
+		<min x="6480.49854" y="-3510.81714" z="3.37496352" />
+		<max x="7025.85938" y="-2096.32739" z="1056.1615" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/southmanhat</Name>
+	   <AABB>
+		<min x="4836.563" y="-4374.592" z="-352.596924" />
+		<max x="5766.08838" y="-3106.86157" z="1207.15234" />
+	   </AABB>
+	  </Item>
+	  <Item type="CScenarioPointRegionDef">
+	   <Name>dlc_liberty_city:/%PLATFORM%/levels/gta5/scenario/bohan</Name>
+	   <AABB>
+    <min x="5384.321" y="-2157.00269" z="0.2645716" />
+    <max x="6703.7373" y="-861.6879" z="434.2685" />
+	   </AABB>
+	  </Item>
+  </RegionDefs>
+  <Groups />
+  <InteriorNames />
+</CScenarioPointManifest>

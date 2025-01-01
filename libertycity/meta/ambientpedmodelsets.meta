@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CAmbientModelSets>
 	<ModelSets>
+	    <Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_lara_croft</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_3</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_3</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_4</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_mai_shiranui</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_momiji</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_momiji_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_yukino</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_yukino_topless</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tamaki</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_kokoro</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+		<Item>
+          <Name>spwaifu_honoka</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_2b</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_a2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
 	<!-- RUSSIAN GANG STARTS HERE -->
 		<Item type="CAmbientModelSet">
 			<Name>GANG_RUSSIAN</Name>
@@ -178,6 +283,401 @@
         </Item>
 		<Item>
           <Name>G_M_Y_HUSTLER_05</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_GROUP_01</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_ada_wong_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_yukino</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_a2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_GROUP_02</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_ada_wong</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+		<Item>
+          <Name>spwaifu_momiji</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tamaki</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_4</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_GROUP_03</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_lara_croft</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_mai_shiranui</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_3</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+		<Item>
+          <Name>spwaifu_honoka</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_kokoro</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_GROUP_04</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_momiji_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_3</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_2b</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_01</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_lara_croft</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_02</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_ada_wong_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_03</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_3</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_04</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_05</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_3</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_4</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_06</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_mai_shiranui</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_momiji</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_07</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_momiji_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_yukino</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_08</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_tamaki</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_kokoro</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_09</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_2b</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_a2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+	<Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_SUBGROUP_10</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_ada_wong_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+    <Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_DEFAULT</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_ada_wong</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_yukino</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tamaki</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_kokoro</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+		<Item>
+          <Name>spwaifu_honoka</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_2b</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_a2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+    <Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_CASUAL</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_lara_croft</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_ada_wong_casual_3</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_3</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_tifa_lockhart_casual_4</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_mai_shiranui</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_momiji</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+        <Item>
+          <Name>spwaifu_momiji_2</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+    <Item type="CAmbientModelSet">
+      <Name>AMS_GANG_WAIFU_NUDE</Name>
+      <Models>
+        <Item>
+          <Name>spwaifu_yukino_topless</Name>
           <Variations type="NULL" />
           <Probability value="1.000000" />
         </Item>
