@@ -11,7 +11,7 @@
         <xi:include href="commoncrc:/data/common_anim.meta" xpointer="xpointer(/dataFiles)"/>
     </Item>
     <Item>
-      <xi:include href="resources:/libertycity/meta/images.meta" xpointer="xpointer(/dataFiles)"/>
+      <xi:include href="commoncrc:/data/levels/gta5/images.meta" xpointer="xpointer(/dataFiles)"/>
     </Item>
   </includedXmlFiles>
   <includedDataFiles>
