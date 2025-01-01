@@ -77,17 +77,15 @@ files {
 	'audio/sfx/dlc_vehsfx/*.awc',
 }
 
--- Liberty City Loader
-client_script 'scripts/libertycity.lua'
-
 -- Utils Script Client
 client_scripts {
+	'scripts/libertycity.lua',
+	'scripts/unload_los_santos.lua',
 	'scripts/hash_names.lua',
 	'scripts/map_scaleform.lua',
 	'scripts/map_zoom.lua',
 	'scripts/water_natives.lua',
     'scripts/subway_lc.lua',
-	'scripts/unload_los_santos.lua'
 }
 
 -- Liberty City ITYPs
