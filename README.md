@@ -1,6 +1,6 @@
 # WorldTravelFiveM
 
-All Credit Fromm @ook in discord there discord server links is here 
+All Credit TO @ook in discord there discord server links is here 
 
 Welcome to the official World Travel discord!
 here you can find:
